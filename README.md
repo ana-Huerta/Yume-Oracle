@@ -1,2 +1,3 @@
 # Yume-Oracle
-API orientada a ser un interprete de sueños.
+A 12 de marzo de 2025:
+Sigue en desarrollo.
